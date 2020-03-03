@@ -1,0 +1,3 @@
+open CMD activate myddenv
+
+kaggle competitions submit -c jigsaw-unintended-bias-in-toxicity-classification -f "C:/Users/Jie.Hu/Desktop/Data Science/Practice/Kaggle_nlp_2/submission1.csv" -m "Message"
