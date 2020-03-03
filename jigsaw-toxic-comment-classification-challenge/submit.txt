@@ -1,0 +1,3 @@
+open CMD activate myddenv
+
+kaggle competitions submit -c jigsaw-toxic-comment-classification-challenge -f "C:/Users/Jie.Hu/Desktop/Data Science/Practice/Kaggle_nlp_1/submission9.csv" -m "Message"
