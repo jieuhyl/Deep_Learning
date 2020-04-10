@@ -1,0 +1,10 @@
+cd Downloads
+
+ssh -L localhost:8888:localhost:8888 -i keras-try1-keypair.pem ubuntu@ec2-52-40-159-180.us-west-2.compute.amazonaws.com
+
+jupyter notebook
+
+http://localhost:8888/?token=6e39bf8f77a5acdda580aa7f8a75651b3cda60411a677cfa&token=6e39bf8f77a5acdda580aa7f8a75651b3cda60411a677cfa
+
+
+ssh -L localhost:8888:localhost:8888 -i keras-nr
